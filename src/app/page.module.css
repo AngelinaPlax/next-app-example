@@ -1,0 +1,28 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: xx-large;
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+.button {
+  font-size: large;
+  margin: 5px;
+  min-height: 2vh;
+  min-width: 10vw;
+}
+
+.a {
+  color: rgb(106, 123, 138);
+  margin: 10px;
+}
+
+.li {
+  list-style-type: none;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
